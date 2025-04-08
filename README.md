@@ -1,6 +1,7 @@
 # IntelliFlow-Intelligent-Ticket-Triage-Tool
 AI-powered triage assistant built to streamline internal CSS support ticket handling using Azure OpenAI.
 
+
 📌 1. IntelliFlow – AI-Powered Ticket Triage Tool
 Industry: Enterprise SaaS / Customer Support Automation
 
